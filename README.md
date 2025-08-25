@@ -3,6 +3,7 @@ CodeView is a JavaFX node that is used to display code.
 The underlying technology behind CodeView is [prismjs](https://prismjs.com/).
 
 Compatible Languages: Java
+
 Note: I created this node to learn how to create custom nodes using Region. I do not have a real-world use case for this control, so I didn't take any steps to make it compatible with more languages. I can add more languages if needed.
 
 Example:
